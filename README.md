@@ -1,3 +1,3 @@
-# Computational_Issues_in_Optimization_for_Deep_networks
+__Computational Issues in Optimization for Deep networks__
 
-How to run .. [TODO]
+This repository contains the files to run the same computational tests presente in the pre-print https://arxiv.org/abs/2405.02089
