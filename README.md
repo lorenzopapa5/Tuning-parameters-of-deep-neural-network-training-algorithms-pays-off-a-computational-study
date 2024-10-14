@@ -1,4 +1,4 @@
-__Computational Issues in Optimization for Deep networks__
+__Tuning parameters of deep neural network training algorithms pays off: a computational study__
 
 This repository contains the files to run the same computational tests for https://link.springer.com/article/10.1007/s11750-024-00683-x
 
